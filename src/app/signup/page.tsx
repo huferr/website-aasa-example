@@ -1,7 +1,7 @@
-export default function Home() {
+export default function SignUp() {
   return (
     <div className='flex items-center justify-center min-h-screen text-lg font-[family-name:var(--font-geist-sans)]'>
-      Example App to test AASA Integration with React Native App
+      Sign Up page. Referral Code: 123
     </div>
   );
 }

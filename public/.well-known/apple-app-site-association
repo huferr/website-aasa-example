@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "5DVF9RNYP7.xyz.aika.app-test",
+        "paths": ["/signup/*"]
+      }
+    ]
+  }
+}
