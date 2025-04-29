@@ -14,7 +14,7 @@
             "comment": "Exclude links with this fragment"
           },
           {
-            "/": "/*"
+            "/": "/"
           }
         ]
       }
