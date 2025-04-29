@@ -4,7 +4,8 @@
       {
         "appIDs": [
           "5DVF9RNYP7.xyz.aika.app",
-          "5DVF9RNYP7.xyz.aika.app-test"
+          "5DVF9RNYP7.xyz.aika.app-test",
+          "5DVF9RNYP7.xyz.aika.app-staging"
         ],
         "components": [
           {
@@ -13,8 +14,8 @@
             "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
           },
           {
-            "/": "/signup/*",
-            "comment": "Allow links to signup with optional referralCode query parameter"
+            "/": "/*",
+            "comment": "Matches all paths"
           }
         ]
       }
