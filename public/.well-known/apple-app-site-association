@@ -14,12 +14,7 @@
             "comment": "Exclude links with this fragment"
           },
           {
-            "/": "/*",
-            "comment": "Match all paths"
-          },
-          {
-            "/": "/",
-            "comment": "Match root path explicitly"
+            "/": "/*"
           }
         ]
       }
