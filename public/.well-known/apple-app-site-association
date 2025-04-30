@@ -3,9 +3,9 @@
     "details": [
       {
         "appIDs": [
-          "5DVF9RNYP7.xyz.aika.app",
-          "5DVF9RNYP7.xyz.aika.app-test",
-          "5DVF9RNYP7.xyz.aika.app-staging"
+          "ABCD.xyz.test.app",
+          "ABCD.xyz.test.app-test",
+          "ABCD.xyz.test.app-staging"
         ],
         "components": [
           {
@@ -15,9 +15,6 @@
           },
           {
             "/": "/"
-          },
-          {
-            "/": "/test"
           }
         ]
       }
