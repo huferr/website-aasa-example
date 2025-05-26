@@ -17,14 +17,14 @@
             "/": "/"
           }
         ],
-        "webcredentials": {
-          "apps": [
-            "5DVF9RNYP7.xyz.aika.app",
-            "5DVF9RNYP7.xyz.aika.app-test",
-            "5DVF9RNYP7.xyz.aika.app-staging"
-          ]
-        }
       }
-    ]
+    ],
+    "webcredentials": {
+      "apps": [
+        "5DVF9RNYP7.xyz.aika.app",
+        "5DVF9RNYP7.xyz.aika.app-test",
+        "5DVF9RNYP7.xyz.aika.app-staging"
+      ]
+  }
   }
 }
