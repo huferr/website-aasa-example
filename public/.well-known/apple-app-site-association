@@ -3,9 +3,9 @@
     "details": [
       {
         "appIDs": [
-          "ABCD.xyz.test.app",
-          "ABCD.xyz.test.app-test",
-          "ABCD.xyz.test.app-staging"
+          "5DVF9RNYP7.xyz.aika.app",
+          "5DVF9RNYP7.xyz.aika.app-test",
+          "5DVF9RNYP7.xyz.aika.app-staging"
         ],
         "components": [
           {
@@ -19,9 +19,9 @@
         ],
         "webcredentials": {
           "apps": [
-            "ABCD.xyz.test.app",
-            "ABCD.xyz.test.app-test",
-            "ABCD.xyz.test.app-staging"
+            "5DVF9RNYP7.xyz.aika.app",
+            "5DVF9RNYP7.xyz.aika.app-test",
+            "5DVF9RNYP7.xyz.aika.app-staging"
           ]
         }
       }
