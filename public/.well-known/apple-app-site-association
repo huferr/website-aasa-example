@@ -16,7 +16,14 @@
           {
             "/": "/"
           }
-        ]
+        ],
+        "webcredentials": {
+          "apps": [
+            "ABCD.xyz.test.app",
+            "ABCD.xyz.test.app-test",
+            "ABCD.xyz.test.app-staging"
+          ]
+        }
       }
     ]
   }
